@@ -1,4 +1,4 @@
-# # Config the development environment on Xubuntu
+# Config the development environment on Xubuntu
 
 ## General
 
