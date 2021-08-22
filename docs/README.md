@@ -5,13 +5,7 @@ pageClass: home-page
 name: Yuxuan Liang
 profile: /liangyuxuan.jpg
 
-socials:
-  - title: github
-    icon: "/icons/github.svg"
-    link: https://github.com/liangyuxuan1
-
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Senior student at University of Science and Technology of China, Hefei 230000, China
+bio: Senior student, University of Science and Technology of China
 email: liangyuxuan@mail.ustc.edu.cn
 ---
 
@@ -19,18 +13,13 @@ email: liangyuxuan@mail.ustc.edu.cn
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
-
+I am currently a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). 
 
 ## Education
 
 - School of Physical Sciences, University of Science and Technology of China, Sept 2018 - present
 
-
 ## Projects
-
 
 [→ Full list](/projects/)
 
@@ -56,12 +45,6 @@ I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fe
 
 </ProjectCard>
 
-
-## Awards & Honors
-
-### Contests
-
-- First place in **The Hogwarts House Cup**
 
 
 <!-- Custom style for this page -->

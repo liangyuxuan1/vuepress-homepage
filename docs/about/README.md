@@ -1,32 +1,24 @@
 ---
 pageClass: about-page
 description: 'The biography and information about me.'
-avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+avatar: /liangyuxuan.jpg
+head: 'Yuxuan Liang'
+info: 'Senior student in the University of Science and Technology of China'
+interests: 'Interests: Football.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
+  link: https://github.com/liangyuxuan1
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:liangyuxuan@mail.ustc.edu.cn'
 actions:
 - text: Projects
   link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+footer: Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I am currently a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). 
 
 </AboutCard>
 
