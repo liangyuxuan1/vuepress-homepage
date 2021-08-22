@@ -1,9 +1,8 @@
 .DS_Store
 node_modules
-dist
 *.log
 .temp
 vuepress
 TODOs.md
 dist
-deploy
+yarn.lock
