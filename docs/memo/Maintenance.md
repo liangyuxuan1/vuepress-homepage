@@ -4,7 +4,7 @@ My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-ho
 
 ---
 
-## Maintain
+## Daily Maintenance
 
 - Edit the md files in `docs`
 - Build 
@@ -19,11 +19,11 @@ deploy.sh
 ```
 
 ----------
-## Setup
+## Prerequisites
 
 ### Git-hub branch problem
 
-- Fork the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template and change its default branch name from 'master' to 'main'. 
+- Fork the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template and change its default branch name from 'master' to 'main'.  
 - Set the default brach on `git init` command as
 
 ```bash
@@ -31,18 +31,6 @@ git config --global init.defaultBranch main
 ```
 
 Refer to [here](https://www.seancdavis.com/blog/git-set-default-branch/) for the brach problem of Github.
-
-### Get the repo
-
-Download on GitHub: `Clone or download` -> `Download ZIP`
-
-or clone it
-
-```bash
-$ git clone git@github.com:liangyuxuan1/vuepress-homepage.git
-```
-
-### Prepararation
 
 - [Node.js](https://nodejs.org)**>=8.0.0**.
 
@@ -56,6 +44,15 @@ npm install -g yarn
 
 Check by running commands: `node --version`, `npm --version` and `yarn --version`
 
+### Get the repo
+
+Download on GitHub: `Clone or download` -> `Download ZIP`
+
+or clone it
+
+```bash
+$ git clone git@github.com:liangyuxuan1/vuepress-homepage.git
+```
 ## Configure and run locally
 
 ```bash

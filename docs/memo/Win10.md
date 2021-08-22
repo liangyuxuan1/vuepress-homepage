@@ -1,4 +1,4 @@
-# Setting the development environment on Windows 10
+# Config the development environment on Windows 10
 
 Attention: the software version may change, but the versions of python, CUDA and pytorch should match.
 
