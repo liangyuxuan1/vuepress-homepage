@@ -2,23 +2,17 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
-profile: /profile.jpg
+name: Yuxuan Liang
+profile: /liangyuxuan.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://github.com/liangyuxuan1
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Senior student at University of Science and Technology of China, Hefei 230000, China
+email: liangyuxuan@mail.ustc.edu.cn
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -30,16 +24,9 @@ I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org
 I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
 
-## News
+## Education
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
-
-
-## Education & Experiences
-
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- School of Physical Sciences, University of Science and Technology of China, Sept 2018 - present
 
 
 ## Projects
