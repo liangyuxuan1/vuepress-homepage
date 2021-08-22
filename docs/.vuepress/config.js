@@ -11,11 +11,11 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
+      { text: "Memo", link: "/memo/" },
       { text: "GitHub", link: "https://github.com/liangyuxuan1" }
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
+      '/memo/': genSidebarConfig('Memo')
     },
     lastUpdated: 'Last Updated'
   },
@@ -36,9 +36,9 @@ function genSidebarConfig (title) {
       collapsable: false,
       children: [
         '',
-        'getting-started',
-        'customize',
-        'advanced',
+        'Maintenance',
+        'Win10',
+        'Xubuntu',
       ]
     }
   ]
