@@ -1,6 +1,6 @@
 # Maintain the homepage
 
-My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template. 
+My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template. Thanks to the author [Xin Fu](https://imfing.com/).
 
 ---
 

@@ -6,17 +6,23 @@ pageClass: projects-page
 
 Here are some works of mine :books:
 
-## Projects
+## Projects (Continuously updating)
 
-<ProjectCard image="/projects/1.png">
+<ProjectCard image="/projects/phase.jpg">
 
-  Harry P., Hermione G., *et al*
+  **Data-driven machine learning for phase function estimation of anisotropic media**
+
+  Supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), RPI
   
-  **The Making of Harry Potter's Wand**
+  Objective:
+
+  Motivation:
+
+  Methods:
+
+  Results:
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[Github](https://github.com/liangyuxuan1/phasefunction)]
 
 </ProjectCard>
 

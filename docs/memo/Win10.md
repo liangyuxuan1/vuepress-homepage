@@ -1,6 +1,6 @@
 # Config the development environment on Windows 10
 
-Attention: the software version may change, but the versions of python, CUDA and pytorch should match.
+Attention: Software versions may vary at the time of download, but the versions of python, CUDA and pytorch should match.
 
 ## Install git
 - run Git-2.32.0-64-bit.exe

@@ -13,25 +13,37 @@ email: liangyuxuan@mail.ustc.edu.cn
 
 ## About Me
 
-I am currently a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). 
+I am a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). My major is Photoelectric Information Science and Engineering and I am expected to get my Bachelor of Science degree in Physics in July, 2022. Now, I am actively applying to graduate programs in USA and Europe to further my studies. My research interests lie in the area of integrating physics and artificial intelligence technologies to solve life and healthcare problems.
+
+## News
+
+- [August 2021] Start this homepage
+- [May 2021] Start summer internship (online) at the [AI-based X-ray Imaging System (AXIS) lab](https://wang-axis.github.io/), Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang)
 
 ## Education
 
-- School of Physical Sciences, University of Science and Technology of China, Sept 2018 - present
+- **School of Physical Sciences, University of Science and Technology of China** <br/> 
+Sept 2018 - present
 
-## Projects
+## Projects (Continuously updating)
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/phase.jpg" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **Data-driven machine learning for phase function estimation of anisotropic media**
 
-  Harry P., Hermione G., *et al*
+  Supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), RPI
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+  Objective:
+
+  Motivation:
+
+  Methods:
+
+  Results:
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[Github](https://github.com/liangyuxuan1/phasefunction)]
 
 </ProjectCard>
 
@@ -45,7 +57,9 @@ I am currently a senior student in the School of Physical Sciences, University o
 
 </ProjectCard>
 
+## Acknowledgement
 
+My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template. Thanks to the author [Xin Fu](https://imfing.com/).
 
 <!-- Custom style for this page -->
 

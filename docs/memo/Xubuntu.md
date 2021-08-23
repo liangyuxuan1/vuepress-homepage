@@ -6,7 +6,7 @@
 
 2. Install gedit: ``sudo apt-get install gedit`` 
 
-3. Install chrom browser: Menu->Software, search chromium and install.
+3. Install chrome browser: Menu->Software, search chromium and install.
 
 ## Install Cuda
 
