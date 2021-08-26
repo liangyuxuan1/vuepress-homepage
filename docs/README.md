@@ -18,7 +18,7 @@ I am a senior student in the School of Physical Sciences, University of Science 
 ## News
 
 - [August 2021] Start this homepage
-- [May 2021] Start summer internship (online) at the [AI-based X-ray Imaging System (AXIS) lab](https://wang-axis.github.io/), Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang)
+- [May 2021] Start summer internship (remote) at the [AI-based X-ray Imaging System (AXIS) lab](https://wang-axis.github.io/), Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang)
 
 ## Education
 
