@@ -33,7 +33,7 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
     add the following lines:
 
-    ``PATH=/usr/local/cuda-10.2/bin:$PATH``
+    ``PATH=/usr/local/cuda/bin:$PATH``
     
     ``export PATH``
 
@@ -46,7 +46,7 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
     add the following line:
 
-    ``/usr/local/cuda-10.2/lib64``
+    ``/usr/local/cuda/lib64``
 
     then run
 
@@ -66,10 +66,18 @@ Open a terminal at the downloaded file directory
 - conda activate pytorch181
 - pip install torch-1.8.1+cu102-cp38-cp38-linux_x86_64.whl 
 - pip install torchvision-0.9.1+cu102-cp38-cp38-linux_x86_64.whl 
-- pip install  opencv_python-4.5.3.56-cp38-cp38-manylinux2014_x86_64.whl 
-- pip install tensorflow-2.5.0-cp38-cp38-manylinux2010_x86_64.whl 
+- pip install opencv_python-4.5.3.56-cp38-cp38-manylinux2014_x86_64.whl 
+- pip install tensorflow-2.5.0-cp38-cp38-manylinux2010_x86_64.whl (do not need if not use tensorboard)
 - pip install jupyter
 
 ## Install VScode
+
+## Install nsight
+
+Nsight is used to modify and debug CudaMCML
+
+- sudo apt install nvidia-nsight
+
+Then run nsight in terminal.
 
 ## Config github and gitee, same as in Windows
