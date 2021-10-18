@@ -34,6 +34,14 @@ Refer to [here](https://www.seancdavis.com/blog/git-set-default-branch/) for the
 
 - [Node.js](https://nodejs.org)**>=8.0.0**.
 
+    If using Ubuntu:
+
+    ```bash
+    curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
+    sudo apt-get install -y nodejs
+    ```
+
 Download and install it with default options.
 
 - [Yarn](https://yarnpkg.com)

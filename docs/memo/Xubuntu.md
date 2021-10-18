@@ -25,9 +25,15 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
 2. Install libcudnn: https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
 
-    ``sudo dpkg -i libcudnn8_8.2.1.32-1+cuda10.2_amd64.deb``
+	Unzip the cuDNN package. Then
 
-2. Environment setup
+    ``sudo cp cuda/include/cudnn*.h /usr/local/cuda/include``
+	
+	``sudo cp -P cuda/lib64/libcudnn* /usr/local/cuda/lib64``
+	
+	``sudo chmod a+r /usr/local/cuda/include/cudnn*.h /usr/local/cuda/lib64/libcudnn*``
+
+3. Environment setup
 
     ``sudo gedit /etc/profile``
 
@@ -54,7 +60,6 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
 ## Install Anaconda
 
-
     sh ./Anaconda3-2021.05-Linux-x86_64.sh
 
 
@@ -62,22 +67,28 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
 Open a terminal at the downloaded file directory
 
-- conda create -n pytorch181 pip python=3.8
-- conda activate pytorch181
-- pip install torch-1.8.1+cu102-cp38-cp38-linux_x86_64.whl 
-- pip install torchvision-0.9.1+cu102-cp38-cp38-linux_x86_64.whl 
-- pip install opencv_python-4.5.3.56-cp38-cp38-manylinux2014_x86_64.whl 
-- pip install tensorflow-2.5.0-cp38-cp38-manylinux2010_x86_64.whl (do not need if not use tensorboard)
-- pip install jupyter
-
-## Install VScode
+	conda create -n pytorch181 pip python=3.8
+	
+	conda activate pytorch181
+	
+	pip install torch-1.8.1+cu102-cp38-cp38-linux_x86_64.whl
+	
+	pip install torchvision-0.9.1+cu102-cp38-cp38-linux_x86_64.whl
+	
+	pip install  opencv_python-4.5.3.56-cp38-cp38-manylinux2014_x86_64.whl
+	
+	pip install jupyter
 
 ## Install nsight
 
 Nsight is used to modify and debug CudaMCML
 
-- sudo apt install nvidia-nsight
+    sudo apt install nvidia-nsight
 
 Then run nsight in terminal.
+
+## Install VScode
+
+	sudo dpkg -i code_XXX.deb
 
 ## Config github and gitee, same as in Windows

@@ -17,6 +17,7 @@ I am a senior student in the School of Physical Sciences, University of Science 
 
 ## News
 
+- [Sept 2021] Start building the all-optical quantum tensor network system in Prof. Xu's lab
 - [August 2021] Start this homepage
 - [May 2021] Start summer internship (remote) at the [AI-based X-ray Imaging System (AXIS) lab](https://wang-axis.github.io/), Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang)
 
@@ -31,7 +32,7 @@ Sept 2018 - present
 
 <ProjectCard image="/projects/phase.jpg" hideBorder=true>
 
-  **Data-driven machine learning for phase function estimation of anisotropic media**
+  **Data-driven machine learning for estimation of phase function in anisotropic media**
 
   Supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), RPI
   
@@ -43,17 +44,15 @@ Sept 2018 - present
 
   Results:
   
-  [[Github](https://github.com/liangyuxuan1/phasefunction)]
+  [[Preliminary Results](https://github.com/liangyuxuan1/phasefunction)]  [[Code and Results](https://github.com/liangyuxuan1/phasefunction2)]
 
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
+  **Manuscript in preparation**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
+  Descriptions will be updated soon.
 
 </ProjectCard>
 
