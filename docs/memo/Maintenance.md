@@ -34,7 +34,9 @@ Refer to [here](https://www.seancdavis.com/blog/git-set-default-branch/) for the
 
 - [Node.js](https://nodejs.org)**>=8.0.0**.
 
-    If using Ubuntu:
+    If using Ubuntu, first update git version greater than 2.28: https://blog.csdn.net/qq_37925382/article/details/104676336
+
+    Then:
 
     ```bash
     curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
