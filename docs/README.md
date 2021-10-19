@@ -3,60 +3,59 @@ pageClass: home-page
 # some data for the components
 
 name: Yuxuan Liang
+
 profile: /liangyuxuan.jpg
 
 bio: School of Physical Sciences, University of Science and Technology of China
+
 email: liangyuxuan@mail.ustc.edu.cn
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
-## About Me
+### About Me
 
 I am a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). My major is Photoelectric Information Science and Engineering and I am expected to get my Bachelor of Science degree in Physics in July, 2022. Now, I am actively applying to graduate programs in USA and Europe to further my studies. My research interests lie in the area of integrating physics and artificial intelligence technologies to solve life and healthcare problems.
 
-## News
+### News
 
-- [Sept 2021] Start building the all-optical quantum tensor network system in Prof. Xu's lab
+- [Sept 2021] Start building the all-optical quantum tensor network system in Prof. Xu's lab, [CAS Key Laboratory of Quantum Information](http://lqcc.ustc.edu.cn/), USTC
 - [August 2021] Start this homepage
 - [May 2021] Start summer internship (remote) at the [AI-based X-ray Imaging System (AXIS) lab](https://wang-axis.github.io/), Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang)
 
-## Education
+### Education
 
 - **School of Physical Sciences, University of Science and Technology of China** <br/> 
 Sept 2018 - present
 
-## Projects (Continuously updating)
+### Projects [→ Full list](/projects/)
 
-[→ Full list](/projects/)
+<!--ProjectCard image="/projects/phase2.png" hideBorder=true -->
+<ProjectCard>
 
-<ProjectCard image="/projects/phase.jpg" hideBorder=true>
+  **Estimation of phase function from diffuse reflectance images by deep convolutional neural networks**
 
-  **Data-driven machine learning for estimation of phase function in anisotropic media**
-
-  Supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), RPI
+  Summer intern project, supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), Rensselaer Polytechnic Institute
   
-  Objective:
+  <p align="center">
+    <img src="/projects/phase1.png" alt="" width="60%">
+  </p>  
 
-  Motivation:
+  **Motivation**: The phase function plays an important factor in light propagation models especially for Monte Carlo (MC) simulation, which is usually represented by an empirical function with unknown parameters. Due to the optically heterogeneous nature of biological tissues, the selection of phase function and the estimation of its parameters remains a difficult task. 
 
-  Methods:
+  **Methods**: We propose an inverse MC model based on convolutional neural networks to directly estimate the form of the phase function from diffuse reflectance images. A Gaussian mixture model-based phase function representation scheme is presented, which does not significantly increase the free parameters and provides the analytic expression of phase function to facilitate deflection angle sampling in MC simulations.
 
-  Results:
+  **Results**: The proposed method is validated on MC-simulated reflectance images of typical biological tissues using the Henyey-Greenstein phase function with different anisotropy factors. The best mean squared error of the phase function is 0.010 and the best relative error of the anisotropy factor is 3.280\%. The effects of field of view (FOV) and spatial resolution are analyzed. The results suggest that the learning task becomes more difficult when using a larger FOV or higher resolution, and may require a more elaborate network model design and more training data.
   
-  [[Preliminary Results](https://github.com/liangyuxuan1/phasefunction)]  [[Code and Results](https://github.com/liangyuxuan1/phasefunction2)]
+  [[Code](https://github.com/liangyuxuan1/phasefunction2)]
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+### Publications
 
-  **Manuscript in preparation**
-  
-  Descriptions will be updated soon.
+  Yuxuan Liang, Chuang Niu, Chen Wei, Shenghan Ren, Wenxiang Cong and Ge Wang, Estimation of phase function from diffuse reflectance images by deep convolutional neural networks, submitting to *Physics in Medicine & Biology*. 
 
-</ProjectCard>
-
-## Acknowledgement
+### Acknowledgement
 
 My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) template. Thanks to the author [Xin Fu](https://imfing.com/).
 
@@ -65,7 +64,7 @@ My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-ho
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 16px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
