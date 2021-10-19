@@ -35,7 +35,7 @@ Sept 2018 - present
 
   **Estimation of phase function from diffuse reflectance images by deep convolutional neural networks**
 
-  Summer intern project, supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), Rensselaer Polytechnic Institute
+  Summer intern project, supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), Rensselaer Polytechnic Institute, USA
   
   <p align="center">
     <img src="/projects/phase1.png" alt="" width="60%">

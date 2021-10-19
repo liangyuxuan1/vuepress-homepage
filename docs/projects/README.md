@@ -12,7 +12,7 @@ Here are some works of mine :books:
 
   **Estimation of phase function from diffuse reflectance images by deep convolutional neural networks**
 
-  Summer intern project, supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), Rensselaer Polytechnic Institute
+  Summer intern project, supervised by [Prof. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang), Rensselaer Polytechnic Institute, USA
 
   <p align="center">
     <img src="/projects/phase1.png" alt="" width="80%">
@@ -61,7 +61,7 @@ Here are some works of mine :books:
 
   Summer intern project, July 2020
      
-  Advisor: [Prof. Tao Su](https://faculty.xidian.edu.cn/ST1/zh_CN/index.htm), [National Lab of Radar Signal Processing](https://rsp.xidian.edu.cn/index.html), Xidian University
+  Advisor: [Prof. Tao Su](https://faculty.xidian.edu.cn/ST1/zh_CN/index.htm), [National Lab of Radar Signal Processing](https://rsp.xidian.edu.cn/index.html), Xidian University, China
   
   - Anti-Smashing Radar is used at the barrier gate to detect whether there are vehicles or pedestrians passing by, so it can prevent the gate from falling automatically and hitting them. We developed a 39 GHz millimeter wave radar, whose frequency is different from most commercial radars on the market so that it gets few signal interferences.
   - Investigated the price, size and radar frequency of the existing commercial radars and gave proposals for improvement.
