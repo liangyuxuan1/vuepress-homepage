@@ -92,3 +92,7 @@ Then run nsight in terminal.
 	sudo dpkg -i code_XXX.deb
 
 ## Config github and gitee, same as in Windows
+
+## Config Github proxy
+
+https://blog.csdn.net/weixin_39827315/article/details/110661140
