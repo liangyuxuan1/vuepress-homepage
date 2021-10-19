@@ -41,7 +41,7 @@ Sept 2018 - present
     <img src="/projects/phase1.png" alt="" width="60%">
   </p>  
 
-  **Motivation**: The phase function plays an important factor in light propagation models especially for Monte Carlo (MC) simulation, which is usually represented by an empirical function with unknown parameters. Due to the optically heterogeneous nature of biological tissues, the selection of phase function and the estimation of its parameters remains a difficult task. 
+  **Motivation**: The phase function plays an important factor in light propagation models especially for Monte Carlo (MC) simulation, which is usually represented by an empirical function with unknown parameters. In recent years, there have been some studies using machine learning methods to estimate the parameters of phase functions, but to our knowledge, no studies have attempted to estimate their form directly. 
 
   **Methods**: We propose an inverse MC model based on convolutional neural networks to directly estimate the form of the phase function from diffuse reflectance images. A Gaussian mixture model-based phase function representation scheme is presented, which does not significantly increase the free parameters and provides the analytic expression of phase function to facilitate deflection angle sampling in MC simulations.
 
