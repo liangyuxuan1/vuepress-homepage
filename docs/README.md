@@ -69,7 +69,7 @@ My homepage uses the [vuepress-homepage](https://github.com/mtobeiyf/vuepress-ho
   p
     margin 0 0 0.5rem
   p, ul, ol
-    line-height normal
+    line-height 1.5
   a
     font-weight normal
   .theme-default-content:not(.custom) > h2
