@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # 可执行文件路径
 
 编辑PATH
 
 sudo gedit /etc/profile 
+=======
+# Ubuntu可执行文件路径
+
+编辑PATH
+
+	sudo gedit /etc/profile 
+>>>>>>> 45bc8eb97ad45c5458b1a8f86610fea2eb6d59fb
 
 添加路径
 
@@ -16,7 +24,11 @@ sudo gedit /etc/profile
 
 更新路径
 
+<<<<<<< HEAD
 source  /etc/profile
+=======
+	source  /etc/profile
+>>>>>>> 45bc8eb97ad45c5458b1a8f86610fea2eb6d59fb
 
 # LIB 路径
 

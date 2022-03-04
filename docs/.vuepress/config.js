@@ -39,6 +39,7 @@ function genSidebarConfig (title) {
         'Maintenance',
         'Win10',
         'Xubuntu',
+        'SetPath'
       ]
     }
   ]
