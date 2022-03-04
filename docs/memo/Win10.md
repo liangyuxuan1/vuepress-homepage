@@ -20,7 +20,7 @@ Attention: Software versions may vary at the time of download, but the versions 
 - pip install torch-1.8.1+cu102-cp38-cp38-win_amd64.whl
 - pip install torchvision-0.9.1+cu102-cp38-cp38-win_amd64.whl
 - pip install opencv-python
-- pip install tensorflow-2.5.0-cp38-cp38-win_amd64.whl 
+- pip install tensorboard
 - pip install jupyter
 
 ## Install VSCode
