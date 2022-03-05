@@ -17,8 +17,10 @@ email: liangyuxuan@mail.ustc.edu.cn
 
 I am a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). My major is Photoelectric Information Science and Engineering and I am expected to get my Bachelor of Science degree in Physics in July, 2022. Now, I am actively applying to graduate programs in USA and Europe to further my studies. My research interests lie in the area of integrating physics and artificial intelligence technologies to solve life and healthcare problems.
 
-### News
+[Feb. 19, 2022] I am very excited to have been admitted to Rensselaer Polytechnic Institute. I will start my PhD at the Biomedical Imaging Center of the Department of Biomedical Engineering in August 2022, under the joint supervision of Professor [Ge Wang](https://faculty.rpi.edu/ge-wang) and [Pingkun Yan](https://faculty.rpi.edu/pingkun-yan). 
 
+### News
+- [Mar. 5, 2022] Our PhaseNet paper is accepted by PMB.
 - [Oct. 27, 2021] Phase function estimation paper submitted to *Physics in Medicine & Biology*
 - [Sept 2021] Start building the all-optical quantum tensor network system in Prof. Xu's lab, [CAS Key Laboratory of Quantum Information](http://lqcc.ustc.edu.cn/), USTC
 - [August 2021] Start this homepage
@@ -53,7 +55,7 @@ Sept 2018 - present
 
 ### Publications
 
-  Yuxuan Liang, Chuang Niu, Chen Wei, Shenghan Ren, Wenxiang Cong and Ge Wang, Phase function estimation from a diffuse reflectance image via deep learning, *Physics in Medicine & Biology*, under review.  [[Code](https://github.com/liangyuxuan1/phasefunction2)] [[arXiv](http://export.arxiv.org/abs/2111.08227)]
+  Yuxuan Liang, Chuang Niu, Chen Wei, Shenghan Ren, Wenxiang Cong and Ge Wang, Phase function estimation from a diffuse reflectance image via deep learning, *Physics in Medicine & Biology*, in press.  [[Code](https://github.com/liangyuxuan1/phasefunction2)] [[arXiv](http://export.arxiv.org/abs/2111.08227)]
 
 ### Acknowledgement
 
