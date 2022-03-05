@@ -1,8 +1,8 @@
-# Ubuntu可执行文件路径
+# 可执行文件路径
 
 编辑PATH
 
-	sudo gedit /etc/profile 
+sudo gedit /etc/profile 
 
 添加路径
 
@@ -16,7 +16,7 @@
 
 更新路径
 
-	source  /etc/profile
+source  /etc/profile
 
 # LIB 路径
 

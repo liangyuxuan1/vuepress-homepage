@@ -39,7 +39,7 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
     add the following lines:
 
-    ``PATH=/usr/local/cuda/bin:$PATH``
+    ``PATH=/usr/local/cuda-10.2/bin:$PATH``
     
     ``export PATH``
 
@@ -52,7 +52,7 @@ First, update display driver: Settings->Additional Drivers, select a 'proprietar
 
     add the following line:
 
-    ``/usr/local/cuda/lib64``
+    ``/usr/local/cuda-10.2/lib64``
 
     then run
 
@@ -77,22 +77,12 @@ Open a terminal at the downloaded file directory
 	
 	pip install  opencv_python-4.5.3.56-cp38-cp38-manylinux2014_x86_64.whl
 	
+	pip install tensorboard
+	
 	pip install jupyter
-
-## Install nsight
-
-Nsight is used to modify and debug CudaMCML
-
-    sudo apt install nvidia-nsight
-
-Then run nsight in terminal.
 
 ## Install VScode
 
 	sudo dpkg -i code_XXX.deb
 
 ## Config github and gitee, same as in Windows
-
-## Config Github proxy
-
-https://blog.csdn.net/weixin_39827315/article/details/110661140
