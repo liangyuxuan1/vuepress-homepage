@@ -18,7 +18,7 @@ footer: Powered by VuePress
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I am a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). My major is Photoelectric Information Science and Engineering and I am expected to get my Bachelor of Science degree in Physics in July, 2022. Now, I am actively applying to graduate programs in USA and Europe to further my studies. My research interests lie in the area of integrating physics and artificial intelligence technologies to solve life and healthcare problems.
+I am currently a senior student in the School of Physical Sciences, University of Science and Technology of China (USTC). My major is Photoelectric Information Science and Engineering and I am expected to get my Bachelor of Science degree in Physics in July, 2022. I will start to pursue my PhD in biomedical engineering at Rensselaer Polytechnic Institute, NY, USA, in August 2022. My research interests lie in the area of integrating physics and artificial intelligence technologies to solve life and healthcare problems.
 
 </AboutCard>
 
