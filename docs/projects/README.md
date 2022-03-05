@@ -9,8 +9,6 @@ pageClass: projects-page
 
   **Estimation of phase function from diffuse reflectance images by deep convolutional neural networks**
 
-  **Data-driven machine learning for estimation of phase function in anisotropic media**
-  
   Summer intern project, May 2021 - Sept. 2021
 
   <p align="center">
