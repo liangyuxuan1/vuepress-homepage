@@ -32,7 +32,10 @@ pageClass: projects-page
   Advisor: [Prof. Xiaoye Xu](https://www.researchgate.net/profile/Xiao-Ye-Xu), [CAS Key Laboratory of Quantum Information](http://lqcc.ustc.edu.cn/), USTC
   
   - Tensor network (TN) is used to describe quantum states with only a polynomial (in the number of subsystems) number of parameters. We are devising an all-optical scheme for the generation of TN states in one and higher dimensions, which can be used in quantum computing and quantum communication.
-  - Survey on methods of producing indistinguishable single phonons over a wide spectral range, and measuring the temporal and spatial distribution of an ultrashort pulse.
+  - We propose a new method of programmable wavefront modulation based on photorefractive effect. A deep neural network is used to establish the correspondence between the change of crystal refractive index and the distribution of incident light intensity. 
+  - The Gerchberg–Saxton algorithm is used to design the incident light intensity distribution, and a four-step phase shift method is proposed to measure the refractive index distribution of the crystal. 
+  - Built the optical system using a 403nm strong beam as writing light and a weak 632.8nm beam as reference light.
+  - Calibrated the spatial light modulator (SLM) and implemented the GS algorithm. 
   
 </ProjectCard>
 
@@ -45,9 +48,10 @@ pageClass: projects-page
      
   Advisor: [Prof. Xiaoping Tao](http://jxzy.ustc.edu.cn/show_staff.aspx?id=18) and [Prof. Quan Zhang](http://jxzy.ustc.edu.cn/show_staff.aspx?id=27), [Physics Experiment Teaching Center](http://jxzy.ustc.edu.cn/index.aspx), USTC
   
-  - Orbital angular momentum (OAM) has theoretically allowed an infinite increase of the transmitted capacity. We used a machine learning method to precisely recognize OAM modes which is crucial to expand the communication capacity.
-  - Simulated the intensity distribution after superposition of OAM beams with multiple fractional modes. The work was done by COMSOL Multiphysics.
-  - Built the optical system and generated OAM beams with laser, beam expander, polarizer, lens, diaphragm and spatial light modulator.
+  - Investigated the feasibility of using the degree of freedom of orbital angular momentum (OAM) of light to increase the channel capacity of optical communication. 
+  - Simulated the intensity distribution after superposition of OAM beams with multiple fractional modes using COMSOL Multiphysics.
+  - Built the optical system and generated OAM beams. 
+  - Designed a convolutional neural network to recognize OAM modes. Limited by experimental conditions, we could only recognize the cases with a large difference in the number of modes.
   
 </ProjectCard>
 
