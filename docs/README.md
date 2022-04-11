@@ -55,7 +55,7 @@ Sept 2018 - present
 
 ### Publications
 
-  Yuxuan Liang, Chuang Niu, Chen Wei, Shenghan Ren, Wenxiang Cong and Ge Wang, Phase function estimation from a diffuse optical image via deep learning, *Physics in Medicine & Biology*, 67(7):074001, 2022. [[Code](https://github.com/liangyuxuan1/phasefunction2)] [[arXiv](http://export.arxiv.org/abs/2111.08227)]
+  Yuxuan Liang, Chuang Niu, Chen Wei, Shenghan Ren, Wenxiang Cong and Ge Wang, Phase function estimation from a diffuse optical image via deep learning, *Physics in Medicine & Biology*, 67(7):074001, 2022. [[Code](https://github.com/liangyuxuan1/phasefunction2)] [[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ac5b21)]
 
 ### Acknowledgement
 
